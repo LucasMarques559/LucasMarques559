@@ -4,7 +4,6 @@
 - Aprendendo Java e BD ✅
 
 <div>
-  <a href="">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasMarques559&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMarques559&layout=compact&theme=tokyonight" />
 </div>
