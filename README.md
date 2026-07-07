@@ -1,12 +1,10 @@
 ## Olá, me chamo Lucas Marques!
 
-- Estudo e desenvolvimento web ✅
-- Aprendendo Java e BD ✅
+💻 Estudante de Engenharia de Software.
+🚀 Futuro Full-Stack Developer.
+🎯 Sempre desenvolvendo projetos para aprimorar minhas habilidades.
 
-<div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasMarques559&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMarques559&layout=compact&theme=tokyonight" />
-</div>
+
 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
