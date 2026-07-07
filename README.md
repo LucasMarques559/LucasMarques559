@@ -1,8 +1,8 @@
 ## Olá, me chamo Lucas Marques!
 
-💻 Estudante de Engenharia de Software.
-🚀 Futuro Full-Stack Developer.
-🎯 Sempre desenvolvendo projetos para aprimorar minhas habilidades.
+- 💻 Estudante de Engenharia de Software.
+- 🚀 Futuro Full-Stack Developer.
+- 🎯 Sempre desenvolvendo projetos para aprimorar minhas habilidades.
 
 
 
